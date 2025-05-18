@@ -1,17 +1,3 @@
-![image](https://github.com/user-attachments/assets/f5c05e5d-d9c9-4650-831b-ad7780dd4f9c)
-![image](https://github.com/user-attachments/assets/47aac791-d6ee-4565-9db1-fd7fceb0c1c9)
-![image](https://github.com/user-attachments/assets/254579fe-2c8d-40b4-b846-c4fcd58579e4)
-![image](https://github.com/user-attachments/assets/c10cada1-37fe-4370-83ab-acc5f7eb4908)
-![image](https://github.com/user-attachments/assets/52cfe3d6-0be6-4d4e-875d-cc4ed6eee33d)
-![image](https://github.com/user-attachments/assets/cb228dd9-e37b-4657-af3b-7c3a5d26e53d)
-![image](https://github.com/user-attachments/assets/5118483f-1f13-4ffa-bf8a-893286b14b13)
-![image](https://github.com/user-attachments/assets/6b016ba5-e70e-4491-bfbb-184b9d34de33)
-![image](https://github.com/user-attachments/assets/89743185-a9cf-49a0-aa08-35ee77b3a84b)
-
-
-
-
-
 # Колірна гармонія: типи
 
 ## Що таке гармонія кольорів?
@@ -62,31 +48,61 @@
 
 
 
+# Опис палітр кольорів та емоційного ефекту
 
-Analogous
-Відтінки близьких кольорів (блакитний, фіолетовий, бірюзовий).
-Передбачуваний емоційний ефект:
+## ![image](https://github.com/user-attachments/assets/f5c05e5d-d9c9-4650-831b-ad7780dd4f9c)
+### Analogous  
+- Базовий колір: `#D4E8F2`  
+- Відтінки близьких кольорів (блакитний, фіолетовий, бірюзовий).  
+- Емоційний ефект: Виглядає спокійно, м’яко, приємно для очей.
 
-Monochromatic
-Відтінки одного кольору — бірюзово-зелений.
-Ефект: цілісність, стабільність, свіжість.
+---
 
-Triad
-Три кольори, рівновіддалені на колірному колі.
-Ефект: яскравість з балансом, творча і витончена атмосфера.
+## ![image](https://github.com/user-attachments/assets/47aac791-d6ee-4565-9db1-fd7fceb0c1c9)
+### Monochromatic  
+- Базовий колір: `#CAE6E6`  
+- Відтінки одного кольору — бірюзово-зелений.  
+- Емоційний ефект: Виглядає чисто, просто, рівно.
 
-Complementary
-Контраст між синім і жовто-коричневим.
-Ефект: напруга, акценти, жвавість.
+---
 
-Split Complementary
-Один базовий колір і два сусідніх до його протилежного.
-Ефект: контраст із меншою напругою, елегантна енергійність.
+## ![image](https://github.com/user-attachments/assets/254579fe-2c8d-40b4-b846-c4fcd58579e4)
+### Triad  
+- Базовий колір: `#D3BCE4`  
+- Три кольори, рівновіддалені на колірному колі.  
+- Емоційний ефект: Виглядає яскраво, весело, живо.
 
-Square
-Чотири кольори з рівним кутом на колірному колі.
-Ефект: насиченість, динаміка, смілива композиція.
+---
 
-Custom
-Змішана палітра з темного, пастельного та нейтрального.
-Ефект: контраст минулого й сучасного, теплий ностальгійний настрій.
+## ![image](https://github.com/user-attachments/assets/c10cada1-37fe-4370-83ab-acc5f7eb4908)
+### Complementary  
+- Базовий колір: `#E5D080`  
+- Контраст між синім і жовто-коричневим.  
+- Емоційний ефект: Виглядає контрастно, сильно, помітно.
+
+---
+
+## ![image](https://github.com/user-attachments/assets/52cfe3d6-0be6-4d4e-875d-cc4ed6eee33d)
+### Split Complementary  
+- Базовий колір: `#E5D6C0`  
+- Один базовий колір і два сусідніх до його протилежного.  
+- Емоційний ефект: Виглядає цікаво, але не занадто різко.
+
+---
+
+## ![image](https://github.com/user-attachments/assets/cb228dd9-e37b-4657-af3b-7c3a5d26e53d)
+### Square  
+- Базовий колір: `#CE94E5`  
+- Чотири кольори з рівним кутом на колірному колі.  
+- Емоційний ефект: Виглядає різнобарвно, енергійно, сміливо.
+
+---
+
+## ![image](https://github.com/user-attachments/assets/89743185-a9cf-49a0-aa08-35ee77b3a84b)
+### Custom  
+- Базовий колір: `#CED0F5`  
+- Змішана палітра з темного, пастельного та нейтрального.  
+- Емоційний ефект: Виглядає трохи старовинно, затишно, спокійно.
+
+![image](https://github.com/user-attachments/assets/6de91dc4-8246-4e69-bd0e-ed9bda9ff77c)
+![image](https://github.com/user-attachments/assets/3b7017ec-4d63-4a2c-8a07-be5885d668c0)
