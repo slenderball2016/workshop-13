@@ -1,12 +1,17 @@
-![image](https://github.com/user-attachments/assets/9b2d413c-d8a4-4390-8753-7e2e77768d45)
-![image](https://github.com/user-attachments/assets/6b3ad205-600c-45db-86c0-0ffe026cf072)
-![image](https://github.com/user-attachments/assets/49bc4a9e-273e-4db0-9fde-e2024c10a7ab)
-![image](https://github.com/user-attachments/assets/983af6f9-7a25-49fd-86a5-f5977e39a4e8)
-![image](https://github.com/user-attachments/assets/3cd0d32b-6c4a-4336-b653-933d0d7c76b0)
-![image](https://github.com/user-attachments/assets/ff7d18f7-e4e8-4e30-a5d1-ba988fb88ff8)
-![image](https://github.com/user-attachments/assets/8bc112bf-714c-4b7f-9160-432146943bcc)
-![image](https://github.com/user-attachments/assets/29307f43-9cc6-486a-8a37-e19a6a771133)
-![image](https://github.com/user-attachments/assets/b47ec643-ef08-4b68-8fe8-560faef716e9)
+![image](https://github.com/user-attachments/assets/f5c05e5d-d9c9-4650-831b-ad7780dd4f9c)
+![image](https://github.com/user-attachments/assets/47aac791-d6ee-4565-9db1-fd7fceb0c1c9)
+![image](https://github.com/user-attachments/assets/254579fe-2c8d-40b4-b846-c4fcd58579e4)
+![image](https://github.com/user-attachments/assets/c10cada1-37fe-4370-83ab-acc5f7eb4908)
+![image](https://github.com/user-attachments/assets/52cfe3d6-0be6-4d4e-875d-cc4ed6eee33d)
+![image](https://github.com/user-attachments/assets/cb228dd9-e37b-4657-af3b-7c3a5d26e53d)
+![image](https://github.com/user-attachments/assets/5118483f-1f13-4ffa-bf8a-893286b14b13)
+![image](https://github.com/user-attachments/assets/6b016ba5-e70e-4491-bfbb-184b9d34de33)
+![image](https://github.com/user-attachments/assets/89743185-a9cf-49a0-aa08-35ee77b3a84b)
+
+
+
+
+
 # Колірна гармонія: типи
 
 ## Що таке гармонія кольорів?
@@ -54,3 +59,34 @@
 - **Опис**: поєднання чотирьох кольорів на однаковій відстані по колу.
 - **Характеристика**: висока кольорова різноманітність з балансом.
 - **Переваги**: яскравість, симетрія, гармонійність.
+
+
+
+
+Analogous
+Відтінки близьких кольорів (блакитний, фіолетовий, бірюзовий).
+Передбачуваний емоційний ефект:
+
+Monochromatic
+Відтінки одного кольору — бірюзово-зелений.
+Ефект: цілісність, стабільність, свіжість.
+
+Triad
+Три кольори, рівновіддалені на колірному колі.
+Ефект: яскравість з балансом, творча і витончена атмосфера.
+
+Complementary
+Контраст між синім і жовто-коричневим.
+Ефект: напруга, акценти, жвавість.
+
+Split Complementary
+Один базовий колір і два сусідніх до його протилежного.
+Ефект: контраст із меншою напругою, елегантна енергійність.
+
+Square
+Чотири кольори з рівним кутом на колірному колі.
+Ефект: насиченість, динаміка, смілива композиція.
+
+Custom
+Змішана палітра з темного, пастельного та нейтрального.
+Ефект: контраст минулого й сучасного, теплий ностальгійний настрій.
